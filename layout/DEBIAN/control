@@ -1,0 +1,9 @@
+Package: com.ritmada.aovmenu
+Name: AOV VIP
+Version: 5.0
+Architecture: iphoneos-arm
+Description: Menu Hack Map, Cam Xa, Bypass
+Maintainer: Ritmada
+Author: Ritmada
+Section: Tweaks
+Depends: mobilesubstrate
